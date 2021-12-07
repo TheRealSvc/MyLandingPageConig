@@ -462,7 +462,7 @@
         "heading": "Impressum",
         "headingTwo": "Have questions? Look here",
         "headingText": "Weil es nicht fehlen darf...",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "headingTexttwo": "Weil es nicht fehlen darf...",
         "impressumText": "",
         "impressumTextLink": "",
         "impressumData": [
@@ -495,7 +495,7 @@
     "themeOneContactSection": {
         "heading": "Stay Tuned",
         "headingText": "Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "headingTexttwo": "Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch",
         "content": "Kontaktieren Sie uns:",
         "iconList": [
             {
