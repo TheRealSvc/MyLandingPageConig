@@ -140,10 +140,10 @@
         "preHeadingspan": "Features",
         "heading": "Die wichtigsten Features auf einen Blick ",
         "headingTwo": "Was zeichnet uns aus ?",
-        "headingThree": "BlaWhy Small Business Owner's Loves sApp",
+        "headingThree": "Finden Sie es heraus",
         "headingFour": "Warum IoT ?",
         "headingText": "Überzeugen Sie sich selbst",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "headingTexttwo": "Was zeichnet uns aus ?",
         "featureThumb": "/img/features_thumb.png",
         "featureData": [
             {
@@ -495,7 +495,7 @@
     "themeOneContactSection": {
         "heading": "Stay Tuned",
         "headingText": "Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "headingTexttwo": "Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
         "content": "Kontaktieren Sie uns:",
         "iconList": [
             {
