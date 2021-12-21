@@ -1,843 +1,842 @@
-{    "Header": {
-
-        "lefttitle": "",
-        "leftparagraph": "",
-        "righttitle": "Project Page",
-        "rightparagraph": "A flexible IoT-platform",
-        "words": [
-            {
-              "text": "GDPR",
-              "value": 2.7
-            },
-            {
-              "text": "Edge-Computing",
-              "value": 2.6
-            }, 
-            {
-                "text": "Voice To Text",
-                "value": 2
-            },
-            {
-                "text": "Object-Detection",
-                "value": 2.2
-            },
-            {
-              "text": "Online-Updates",
-              "value": 2
-            },
-            {
-              "text": "Modular",
-              "value": 2
-            },
-            {
-              "text": "WiFi",
-              "value": 2
-            },
-            {
-                "text": "Healthcare",
-                "value": 2.2
-              },
-              {
-                "text": "Elderly-Care",
-                "value": 2.2
-              },
-              {
-                "text": "WakeWord Detection",
-                "value": 2
-              },
-              {
-                "text": "Sensors",
-                "value": 2.1
-              },
-            {
-              "text": "Building Automation",
-              "value": 2
-            },
-            {
-              "text": "Bootstrapped",
-              "value": 2
-            },
-            {
-                "text": "Open",
-                "value": 2
-            },
-            {
-                "text": "Scalable",
-                "value": 2
-            },
-            {
-                "text": "SSL",
-                "value": 2.2
-            },
-            {
-                "text": "Security",
-                "value": 2.2
-            },
-            {
-                "text": "Automation",
-                "value": 2
-            },
-            {
-                "text": "Internet-free",
-                "value": 2
-            },
-            {
-                "text": "Docker",
-                "value": 2.3
-            },
-            {
-                "text": "Frontend",
-                "value": 2
-            },
-            {
-                "text": "Be Connected",
-                "value": 2.1
-            },
-            {
-                "text": "Azure",
-                "value": 2.1
-            },
-            {
-                "text": "On-Premise",
-                "value": 2.2
-            },
-            {
-                "text": "100%-Configurable",
-                "value": 2
-            },
-            {
-                "text": "Home-Automation",
-                "value": 2
-            },
-            {
-                "text": "Flexible",
-                "value": 2.1
-            },
-            {
-                "text": "AI",
-                "value": 2.3
-            },
-            {
-                "text": "Anomaly-Detection",
-                "value": 2
-            },
-            {
-                "text": "IoT",
-                "value": 2.4
-            },
-            {
-                "text": "Local",
-                "value": 2.3
-            },
-            {
-                "text": "General",
-                "value": 2.2
-            }
-          ]
-		},
-    "themeOneFeatureSection": {
-        "preHeading": "",
-        "preHeadingspan": "Features",
-        "heading": "Die wichtigsten Features auf einen Blick ",
-        "headingTwo": "Was zeichnet uns aus ?",
-        "headingThree": "Finden Sie es heraus",
-        "headingFour": "Warum IoT ?",
-        "headingText": "Überzeugen Sie sich selbst",
-        "headingTexttwo": "Was zeichnet uns aus ?",
-        "featureThumb": "/img/features_thumb.png",
-        "featureData": [
-            {
-              "id": 1,
-              "image": "/img/featured_image_4.png",
-              "title": "Konfigurierbar und Modular",
-              "text": "Basierend auf einer führenden Lösung 'Azure IoT-Edge'"
-            },
-            {
-              "id": 2,
-              "image": "/img/featured_image_2.png",
-              "title": "DSGVO konform",
-              "text": "Sie bestimmen welche Information wann wohin gesendet wird."
-            },  
-            {
-              "id": 3,
-              "image": "/img/featured_image_3.png",
-              "title": "Sicherheit an erster Stelle",
-              "text": "Minimale und Verschlüsselte Kommunikation nach neuesten Standards."
-            },
-            {
-                "id": 4,
-                "image": "/img/featured_image_3.png",
-                "title": "Geringe Bandbreitenanforderung ",
-                "text": "Der Hauptteil der Datenverarbeitung findet lokal statt. Das senkt die zu übertragene Datenmenge und schafft gleichzeitig Sicherheit"
-              },
-              {
-                "id": 6,
-                "image": "/img/featured_image_6.png",
-                "title": "100% flexibel ",
-                "text": " Bleiben Sie jederzeit flexibel: Modulare (dockerisierte) Funktionen erlauben Ihnen Live-Updates für neue Funktionalität und Geräte. "
-              }
-        ],
-        "featureData_1": [
-            {
-                "id": 1,
-                "image": "/img/featured_image_6.png",
-                "title": "Easy to Customize",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-              },
-              {
-                "id": 2,
-                "image": "/img/featured_image_5.png",
-                "title": "Responsive Design",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-              },
-              {
-                "id": 3,
-                "image": "/img/featured_image_6.png",
-                "title": "Help Documentation",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-              }
-        ],
-        "featureDataTwo": [
-            {
-                "id": 1,
-                "iconClass": "flaticon-tap",
-                "title": "in db.json , yes its Fully functional",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            },
-            {
-                "id": 2,
-                "iconClass": "flaticon-fingerprint",
-                "title": "Fingerprint Data",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            },
-            {
-                "id": 3,
-                "iconClass": "flaticon-notification",
-                "title": "Tap Notification",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            },
-            {
-                "id": 4,
-                "iconClass": "flaticon-place",
-                "title": "Location Tracking",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            },
-            {
-                "id": 5,
-                "iconClass": "flaticon-settings",
-                "title": "Powerful Settings",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            },
-            {
-                "id": 6,
-                "iconClass": "flaticon-language",
-                "title": "Multiple Language",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
-            }
-        ]
-    },
-    "themeOneServiceSection": {
-        "heading": "Make your Device Manage Everything For you",
-        "headingTwo": "Share your photos with friends easily",
-        "headingThree": "Smart and secure mobile banking",
-        "headingFour": "More productivity with less effort",
-        "headingFive": "Organize all your media content easily",
-        "headingSix": "Work faster with powerful filters",
-        "headingSeven": "Stay connected with all of your friends",
-        "buttonText": "Learn More",
-        "thumbOne": "/img/features_thumb.png",
-        "thumbTwo": "/img/service_thumb_2.png",
-        "thumbThree": "/img/welcome_mockup_2.png",
-        "thumbFour": "/img/discover_thumb.png",
-        "thumbFive": "/img/service_thumb_1.png",
-        "thumbSix": "/img/discover_thumb_2.png",
-        "serviceData": [
-            {
-                "id": 1,
-                "iconClass": "fab fa-buffer",
-                "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
-            },
-            {
-                "id": 2,
-                "iconClass": "fas fa-brush",
-                "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
-            },
-            {
-                "id": 3,
-                "iconClass": "fas fa-burn",
-                "text": "Drop ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
-            },
-            {
-                "id": 4,
-                "iconClass": "fas fa-cart-arrow-down",
-                "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
-            }
-        ]
-    },
- 
- "themeOneUseCaseSection": {
-        "iconClass": "far fa-lightbulb text-primary mr-1",
-        "preHeading": "Flexible",
-        "preHeadingspan": "Pricing",
-        "heading": "Unlock Full Power Of sApp",
-        "headingText": "Heading One",
-        "headingTexttwo": "Heading Two",
-        "text": "Beispile für Anwendungen?",
-        "textLink": " was soll hiert rein ?? ",
-        "usecaseOne": [
-            {
-                "id": 1,
-                "planImage": "/img/price_basic.png",
-                "planTitle": "Pflege / Healthcare",
-                "priceSub": "$",
-                "planPrice": "49",
-                "planBtn": "Sign Up",
-		"mainText": "in der Pflege bla",    
-                "li_1": "5GB Linux Web Space",
-                "li_2": "5 MySQL Databases",
-                "li_3": "24/7 Tech Support",
-                "li_4": "Daily Backups"
-            }
-        ],
-         "usecaseTwo": [
-            {
-                "id": 2,
-                "planImage": "/img/price_basic.png",
-                "planTitle": "Stationärer Einzelhandel",
-                "priceSub": "$",
-                "planPrice": "49",
-                "planBtn": "Sign Up",
-		"mainText": "im Einzelhandel bla", 
-                "li_1": "5GB Linux Web Space",
-                "li_2": "5 MySQL Databases",
-                "li_3": "24/7 Tech Support",
-                "li_4": "Daily Backups"
-            }
-        ],	 
-    },
-    "themeOneDiscoverSection": {
-        "heading": "Eine Edge-basierte Lösung ",
-        "headingTwo": "Edge Computing",
-        "headingThree": "für Sie ",
-        "headingText": "Ihre Vorzüge",
-        "thumbOne": "/img/Platform_Vision_only.svg",
-        "thumbTwo": "/img/discover_thumb_3.png",
-        "discoverData": [
-            {
-                "id": 1,
-                "iconClass": "fas fa-check",
-                "text": "Funktionalität wird durch Dockerisierte Module bereitsgestellt."
-            },
-            {
-                "id": 2,
-                "iconClass": "fas fa-check",
-                "text": "Datenvorverarbeitung und künstlichee Intelligenz läuft lokal auf Endgerät/Sensor."
-            },
-            {
-                "id": 3,
-                "iconClass": "fas fa-check",
-                "text": "Lokale 'Edge Maschine' mit Datenbank." 
-            },
-            {
-                "id": 4,
-                "iconClass": "fas fa-check",
-                "text": "Sofern benötigt: Skalierbarkeit in die MS-Azure Cloud "
-            },
-            {
-                "id": 5,
-                "iconClass": "fas fa-check",
-                "text": "Grafische Oberfläche zur Administration und Messaging."
-            }
-        ] , 
-        "discoverIcon":  [
-            {
-                "id": 1,
-                "iconClass": "fas fa-bell"
-            },
-            {
-                "id": 2,
-                "iconClass": "fas fa-envelope-open"
-            },
-            {
-                "id": 3,
-                "iconClass": "fas fa-video"
-            } 
-        ] 
-    } , 
-    "themeOneWorkSection": {
-        "heading": "In wenigen Schritten zur Einbindung neuer Geräte",
-        "headingText": "100% D.I.Y.",
-        "workData": [
-            {
-                "id": 1,
-                "image": "/img/work_thumb_3.png",
-                "title": "Hardware",
-                "content": "Wir stellen das Beriebssystem für Standardhardware Bereit"
-            },
-            {
-                "id": 2,
-                "image": "/img/work_thumb_3.png",
-                "title": "Anschluss",
-                "content": "Einhängen ins WLAN Netz und Anschluss der Sensorik ( Mikrophone, Kameras, etc. )"
-            },
-            {
-                "id": 3,
-                "image": "/img/work_thumb_3.png",
-                "title": "Konfiguration",
-                "content": "Das Gerät wird über das Admin-Frontend grafisch konfiguriert. Dazu gehört die Auswahl des Software Modules mit benötiger Funktionalität(z.B. Aktionen basierend auf Sprach- oder Bilderkennung)"
-            },
-            {
-                "id": 4,
-                "image": "/img/work_thumb_3.png",
-                "title": "Fertig !",
-                "content": "Sehen Sie im Frontend, sobald Ereignisse getriggert werden. "
-            }
-        ]
-    },
-    "themeOnePricingSection": {
-        "iconClass": "far fa-lightbulb text-primary mr-1",
-        "preHeading": "Flexible",
-        "preHeadingspan": "Pricing",
-        "heading": "Unlock Full Power Of sApp",
-        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-        "text": "Not sure what to choose?",
-        "textLink": "Contact Us",
-        "usecaseDataOne": [
-            {
-                "id": 1,
-                "planImage": "/img/price_basic.png",
-                "planTitle": "Basic",
-                "priceSub": "$",
-                "planPrice": "49",
-                "planBtn": "Sign Up",
-                "li_1": "5GB Linux Web Space",
-                "li_2": "5 MySQL Databases",
-                "li_3": "24/7 Tech Support",
-                "li_4": "Daily Backups"
-            }
-        ],
-	   "usecaseDataTwo": [
-            {
-                "id": 2,
-                "planImage": "/img/price_basic.png",
-                "planTitle": "Basic",
-                "priceSub": "$",
-                "planPrice": "49",
-                "planBtn": "Sign Up",
-                "li_1": "5GB Linux Web Space",
-                "li_2": "5 MySQL Databases",
-                "li_3": "24/7 Tech Support",
-                "li_4": "Daily Backups"
-            }
-        ]  
-    },
-    "themeOneFaqSection": {
-        "heading": "Frequently asked questions",
-        "headingTwo": "Have questions? Look here",
-        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-        "faqText": "Haven't find suitable answer?",
-        "faqTextLink": "Tell us what you need.",
-        "faqData": [
-            {
-                "id": 1,
-                "title": "How to install sApp?",
-                "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
-            },
-            {
-                "id": 2,
-                "title": "Can I get support from the Author?",
-                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
-            },
-            {
-                "id": 3,
-                "title": "Do you have a free trail?",
-                "content": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-            }
-        ],
-        "faqDataTwo": [
-            {
-                "id": 1,
-                "title": "How can I edit my personal information?",
-                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-            },
-            {
-                "id": 2,
-                "title": "Contact form isn't working?",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
-            },
-            {
-                "id": 3,
-                "title": "Contact form isn't working?",
-                "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
-            }
-        ],
-        "faqDataThree": [
-            {
-                "id": 1,
-                "title": "How to install sApp?",
-                "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
-            },
-            {
-                "id": 2,
-                "title": "Can I get support from the Author?",
-                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
-            },
-            {
-                "id": 3,
-                "title": "Do you have a free trail?",
-                "content": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-            },
-            {
-                "id": 4,
-                "title": "How can I edit my personal information?",
-                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-            },
-            {
-                "id": 5,
-                "title": "Contact form isn't working?",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
-            }
-        ]
-    },
-	   "themeOneImpressumSection": {
-        "heading": "Impressum",
-        "headingTwo": "Have questions? Look here",
-        "headingText": "Weil es nicht fehlen darf...",
-        "headingTexttwo": "Weil es nicht fehlen darf...",
-        "impressumText": "",
-        "impressumTextLink": "",
-        "impressumData": [
-            {
-                "id": 1,
-                "title": "Anbieter dieser Internetseite ist",
-                "content": "Stephan von Cölln | Tiefenbach Straße 34  | 70329 Stuttgart     | Tel.: 0176-48890492 | E-Mail: svoncoe@svcsolutions.de | Website: www.svcsolutions.de" 
-            }
-        ]
-    },
-    "themeOneTeamSection": {
-        "heading": "Unser \"Team\"  ",
-        "headingText": "Nach Promotion in der Physik tätig in der Automobilbranche und später als Data-Scientist bei Daimler Financial Services (+Mobility). Tech-Enthusiast und erfüllt sich gerade den Traum vom eigenen Produkt. Momentan noch als Einzelkämpfer unterwegs 😀  ",
-        "headingTexttwo": "Bio-Physiker, Data-Scientist, Ex-Daimler Financial Services Mitarbeiter erfüllt sich einen Traum 😀 ",
-        "teamData": [
-            {
-                "id": 1,
-                "image": "/img/about.jpg",
-                "title": "Dr. rer.nat. Stephan v. Cölln",
-                "teamPost": "Founder & CEO"
-            }
-        ],
-        "teamIcons": [
-            {
-                "id": 4,
-                "iconClass": "fab fa-google-plus-g"
-            }
-        ]
-    },
-    "themeOneContactSection": {
-        "heading": "Stay Tuned",
-        "headingText": "Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
-        "headingTexttwo": "Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
-        "content": "Kontaktieren Sie uns:",
-        "iconList": [
-            {
-                "id": 1,
-                "iconClass": "fas fa-home",
-                "text": "Tiefenbachstraße 34, 70329 Stuttgart"
-            },
-            {
-                "id": 2,
-                "iconClass": "fas fa-phone-alt",
-                "text": "+049 (0)17648890492"
-            },
-            {
-                "id": 3,
-                "iconClass": "fas fa-envelope",
-                "text": "svoncoe@svcsolutions.de"
-            }
-        ]
-    },
-    "themeOneFooterSection": {
-        "image": "/img/logo.png",
-        "text": "",
-        "linkText_1": "Useful Links",
-        "iconList": [
-            {
-                "id": 1,
-                "link": "facebook",
-                "iconClass": "fab fa-linkedin-in"
-            }
-        ],
-        "footerList_1": [
-            {
-                "id": 1,
-                "text": "Home"
-            }
-        ],
-        "footerList_2": [
-            {
-                "id": 1,
-                "text": ""
-            }
-        ],
-        "footerList_3": [
-            {
-                "id": 1,
-                "image": ""
-            }
-        ]
-    },
-    "themeOneBlogSection": {
-        "blogData": [
-            {
-                "id": 1,
-                "image": "/img/blog-1.jpg",
-                "author": "Anna Sword",
-                "date": "Feb 05, 2019",
-                "title": "How to grow up your business",
-                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 2,
-                "image": "/img/blog-2.jpg",
-                "author": "Jassica William",
-                "date": "Feb 05, 2019",
-                "title": "Planing to manage your clients?",
-                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 3,
-                "image": "/img/blog-3.jpg",
-                "author": "John Doe",
-                "date": "Mar 05, 2019",
-                "title": "Make your successful business with sApp",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 4,
-                "image": "/img/blog-4.jpg",
-                "author": "Anna Sword",
-                "date": "Aug 05, 2019",
-                "title": "How to get more clients?",
-                "content": "Need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 5,
-                "image": "/img/blog-5.jpg",
-                "author": "Anna Sword",
-                "date": "Feb 05, 2019",
-                "title": "Grow up your business successfully",
-                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 6,
-                "image": "/img/blog-6.jpg",
-                "author": "Junaid Hasan",
-                "date": "Jan 12, 2020",
-                "title": "Meet the business magnet of the year",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
-                "btnText": "Read More"
-            },
-            {
-                "id": 7,
-                "image": "/img/blog-7.jpg",
-                "author": "Anna Sword",
-                "date": "Feb 05, 2019",
-                "title": "How to grow up your business",
-                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 8,
-                "image": "/img/blog-8.jpg",
-                "author": "Anna Sword",
-                "date": "Sep 24, 2019",
-                "title": "Planing to manage your clients?",
-                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
-                "btnText": "Read More"
-            },
-            {
-                "id": 9,
-                "image": "/img/blog-9.jpg",
-                "author": "Anna Sword",
-                "date": "Feb 05, 2020",
-                "title": "Make your successful business with sApp",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly.",
-                "btnText": "Read More"
-            }
-        ]
-    },
-    "themeOneSidebarData": {
-        "widgetTitle_1": "Categories",
-        "widgetTitle_2": "Popular Post",
-        "widgetTitle_3": "Popular Tags",
-        "widgetData_1": [
-            {
-                "id": 1,
-                "text": "Web Design",
-                "content": "(14)"
-            },
-            {
-                "id": 2,
-                "text": "App Landing",
-                "content": "(32)"
-            },
-            {
-                "id": 3,
-                "text": "Wordpress",
-                "content": "(27)"
-            },
-            {
-                "id": 4,
-                "text": "UI Design",
-                "content": "(18)"
-            },
-            {
-                "id": 5,
-                "text": "Bootstrap",
-                "content": "(15)"
-            },
-            {
-                "id": 6,
-                "text": "Web Template",
-                "content": "(29)"
-            }
-        ],
-        "widgetData_2": [
-            {
-                "id": 1,
-                "image": "/img/avatar-1.png",
-                "date": "05 Feb, 2018",
-                "title": "Promote Your Apps With sApp"
-            },
-            {
-                "id": 2,
-                "image": "/img/avatar-2.png",
-                "date": "12 Feb, 2020",
-                "title": "Sell Your Product Like Never Before"
-            },
-            {
-                "id": 3,
-                "image": "/img/avatar-3.png",
-                "date": "13 Jul, 2019",
-                "title": "Built For Passionate People"
-            },
-            {
-                "id": 4,
-                "image": "/img/avatar-4.png",
-                "date": "03 Oct, 2019",
-                "title": "Get Unlimited Offers & Plans"
-            }
-        ],
-        "widgetData_3": [
-            {
-                "id": 1,
-                "text": "sApp"
-            },
-            {
-                "id": 2,
-                "text": "Bootstrap"
-            },
-            {
-                "id": 3,
-                "text": "IOS"
-            },
-            {
-                "id": 4,
-                "text": "Android"
-            },
-            {
-                "id": 5,
-                "text": "Landing Page"
-            },
-            {
-                "id": 6,
-                "text": "Business"
-            },
-            {
-                "id": 7,
-                "text": "Fashion"
-            },
-            {
-                "id": 8,
-                "text": "Media"
-            },
-            {
-                "id": 9,
-                "text": "Lifestyle"
-            },
-            {
-                "id": 10,
-                "text": "Wordpress"
-            },
-            {
-                "id": 11,
-                "text": "Web Design"
-            },
-            {
-                "id": 12,
-                "text": "Mobile App"
-            }
-        ]
-    },
-    "themeOneBlogDetails": {
-        "title": "How to grow up your business with sApp",
-        "image": "/img/blog-2.jpg",
-        "author": "Anna Swford",
-        "date": "05 Feb, 2020",
-        "comments": "2 Comments",
-        "text_1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
-        "text_2": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
-        "text_3": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.",
-        "text_4": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.",
-        "quoteText_1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.",
-        "quoteText_2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
-        "adminImage": "/img/avatar-1.png",
-        "admin": "Anna Swford",
-        "adminText": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock Virginia.",
-        "commentsTitle": "Recent Comments",
-        "commentsPost": "Post your Comments",
-        "postText": "Send Message",
-        "iconList": [
-            {
-                "id": 1,
-                "link": "bg-white facebook",
-                "iconClass": "fab fa-facebook-f"
-            },
-            {
-                "id": 2,
-                "link": "bg-white twitter",
-                "iconClass": "fab fa-twitter"
-            },
-            {
-                "id": 3,
-                "link": "bg-white google-plus",
-                "iconClass": "fab fa-google-plus-g"
-            }
-        ],
-        "commentsData": [
-            {
-                "id": 1,
-                "commentsImage": "/img/avatar-2.png",
-                "commentsAuthor": "Junaid Hasan",
-                "replyText": "Reply",
-                "commentsText_1": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
-                "commentsText_2": "The standard chunk of Lorem Ipsum used since the 1500s."
-            },
-            {
-                "id": 2,
-                "commentsImage": "/img/avatar-3.png",
-                "commentsAuthor": "Jassica William",
-                "replyText": "Reply",
-                "commentsText_1": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
-                "commentsText_2": "All the Lorem Ipsum generators on the Internet tend to repeat."
-            }
-        ]
-    }
+{
+   "Header":{
+      "lefttitle":"",
+      "leftparagraph":"",
+      "righttitle":"Project Page",
+      "rightparagraph":"A flexible IoT-platform",
+      "words":[
+         {
+            "text":"GDPR",
+            "value":2.7
+         },
+         {
+            "text":"Edge-Computing",
+            "value":2.6
+         },
+         {
+            "text":"Voice To Text",
+            "value":2
+         },
+         {
+            "text":"Object-Detection",
+            "value":2.2
+         },
+         {
+            "text":"Online-Updates",
+            "value":2
+         },
+         {
+            "text":"Modular",
+            "value":2
+         },
+         {
+            "text":"WiFi",
+            "value":2
+         },
+         {
+            "text":"Healthcare",
+            "value":2.2
+         },
+         {
+            "text":"Elderly-Care",
+            "value":2.2
+         },
+         {
+            "text":"WakeWord Detection",
+            "value":2
+         },
+         {
+            "text":"Sensors",
+            "value":2.1
+         },
+         {
+            "text":"Building Automation",
+            "value":2
+         },
+         {
+            "text":"Bootstrapped",
+            "value":2
+         },
+         {
+            "text":"Open",
+            "value":2
+         },
+         {
+            "text":"Scalable",
+            "value":2
+         },
+         {
+            "text":"SSL",
+            "value":2.2
+         },
+         {
+            "text":"Security",
+            "value":2.2
+         },
+         {
+            "text":"Automation",
+            "value":2
+         },
+         {
+            "text":"Internet-free",
+            "value":2
+         },
+         {
+            "text":"Docker",
+            "value":2.3
+         },
+         {
+            "text":"Frontend",
+            "value":2
+         },
+         {
+            "text":"Be Connected",
+            "value":2.1
+         },
+         {
+            "text":"Azure",
+            "value":2.1
+         },
+         {
+            "text":"On-Premise",
+            "value":2.2
+         },
+         {
+            "text":"100%-Configurable",
+            "value":2
+         },
+         {
+            "text":"Home-Automation",
+            "value":2
+         },
+         {
+            "text":"Flexible",
+            "value":2.1
+         },
+         {
+            "text":"AI",
+            "value":2.3
+         },
+         {
+            "text":"Anomaly-Detection",
+            "value":2
+         },
+         {
+            "text":"IoT",
+            "value":2.4
+         },
+         {
+            "text":"Local",
+            "value":2.3
+         },
+         {
+            "text":"General",
+            "value":2.2
+         }
+      ]
+   },
+   "themeOneFeatureSection":{
+      "preHeading":"",
+      "preHeadingspan":"Features",
+      "heading":"Die wichtigsten Features auf einen Blick ",
+      "headingTwo":"Was zeichnet uns aus ?",
+      "headingThree":"Finden Sie es heraus",
+      "headingFour":"Warum IoT ?",
+      "headingText":"Überzeugen Sie sich selbst",
+      "headingTexttwo":"Was zeichnet uns aus ?",
+      "featureThumb":"/img/features_thumb.png",
+      "featureData":[
+         {
+            "id":1,
+            "image":"/img/featured_image_4.png",
+            "title":"Konfigurierbar und Modular",
+            "text":"Basierend auf einer führenden Lösung 'Azure IoT-Edge'"
+         },
+         {
+            "id":2,
+            "image":"/img/featured_image_2.png",
+            "title":"DSGVO konform",
+            "text":"Sie bestimmen welche Information wann wohin gesendet wird."
+         },
+         {
+            "id":3,
+            "image":"/img/featured_image_3.png",
+            "title":"Sicherheit an erster Stelle",
+            "text":"Minimale und Verschlüsselte Kommunikation nach neuesten Standards."
+         },
+         {
+            "id":4,
+            "image":"/img/featured_image_3.png",
+            "title":"Geringe Bandbreitenanforderung ",
+            "text":"Der Hauptteil der Datenverarbeitung findet lokal statt. Das senkt die zu übertragene Datenmenge und schafft gleichzeitig Sicherheit"
+         },
+         {
+            "id":6,
+            "image":"/img/featured_image_6.png",
+            "title":"100% flexibel ",
+            "text":" Bleiben Sie jederzeit flexibel: Modulare (dockerisierte) Funktionen erlauben Ihnen Live-Updates für neue Funktionalität und Geräte. "
+         }
+      ],
+      "featureData_1":[
+         {
+            "id":1,
+            "image":"/img/featured_image_6.png",
+            "title":"Easy to Customize",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":2,
+            "image":"/img/featured_image_5.png",
+            "title":"Responsive Design",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":3,
+            "image":"/img/featured_image_6.png",
+            "title":"Help Documentation",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         }
+      ],
+      "featureDataTwo":[
+         {
+            "id":1,
+            "iconClass":"flaticon-tap",
+            "title":"in db.json , yes its Fully functional",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":2,
+            "iconClass":"flaticon-fingerprint",
+            "title":"Fingerprint Data",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":3,
+            "iconClass":"flaticon-notification",
+            "title":"Tap Notification",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":4,
+            "iconClass":"flaticon-place",
+            "title":"Location Tracking",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":5,
+            "iconClass":"flaticon-settings",
+            "title":"Powerful Settings",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         },
+         {
+            "id":6,
+            "iconClass":"flaticon-language",
+            "title":"Multiple Language",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+         }
+      ]
+   },
+   "themeOneServiceSection":{
+      "heading":"Make your Device Manage Everything For you",
+      "headingTwo":"Share your photos with friends easily",
+      "headingThree":"Smart and secure mobile banking",
+      "headingFour":"More productivity with less effort",
+      "headingFive":"Organize all your media content easily",
+      "headingSix":"Work faster with powerful filters",
+      "headingSeven":"Stay connected with all of your friends",
+      "buttonText":"Learn More",
+      "thumbOne":"/img/features_thumb.png",
+      "thumbTwo":"/img/service_thumb_2.png",
+      "thumbThree":"/img/welcome_mockup_2.png",
+      "thumbFour":"/img/discover_thumb.png",
+      "thumbFive":"/img/service_thumb_1.png",
+      "thumbSix":"/img/discover_thumb_2.png",
+      "serviceData":[
+         {
+            "id":1,
+            "iconClass":"fab fa-buffer",
+            "text":"Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+         },
+         {
+            "id":2,
+            "iconClass":"fas fa-brush",
+            "text":"Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+         },
+         {
+            "id":3,
+            "iconClass":"fas fa-burn",
+            "text":"Drop ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+         },
+         {
+            "id":4,
+            "iconClass":"fas fa-cart-arrow-down",
+            "text":"Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+         }
+      ]
+   },
+   "themeOneUseCaseSection":{
+      "iconClass":"far fa-lightbulb text-primary mr-1",
+      "preHeading":"Flexible",
+      "preHeadingspan":"Pricing",
+      "heading":"Unlock Full Power Of sApp",
+      "headingText":"Heading One",
+      "headingTexttwo":"Heading Two",
+      "text":"Beispile für Anwendungen?",
+      "textLink":" was soll hiert rein ?? ",
+      "usecaseOne":[
+         {
+            "id":1,
+            "planImage":"/img/price_basic.png",
+            "planTitle":"Pflege / Healthcare",
+            "priceSub":"$",
+            "planPrice":"49",
+            "planBtn":"Sign Up",
+            "mainText":"in der Pflege bla",
+            "li_1":"5GB Linux Web Space",
+            "li_2":"5 MySQL Databases",
+            "li_3":"24/7 Tech Support",
+            "li_4":"Daily Backups"
+         }
+      ],
+      "usecaseTwo":[
+         {
+            "id":2,
+            "planImage":"/img/price_basic.png",
+            "planTitle":"Stationärer Einzelhandel",
+            "priceSub":"$",
+            "planPrice":"49",
+            "planBtn":"Sign Up",
+            "mainText":"im Einzelhandel bla",
+            "li_1":"5GB Linux Web Space",
+            "li_2":"5 MySQL Databases",
+            "li_3":"24/7 Tech Support",
+            "li_4":"Daily Backups"
+         }
+      ]
+   },
+   "themeOneDiscoverSection":{
+      "heading":"Eine Edge-basierte Lösung ",
+      "headingTwo":"Edge Computing",
+      "headingThree":"für Sie ",
+      "headingText":"Ihre Vorzüge",
+      "thumbOne":"/img/Platform_Vision_only.svg",
+      "thumbTwo":"/img/discover_thumb_3.png",
+      "discoverData":[
+         {
+            "id":1,
+            "iconClass":"fas fa-check",
+            "text":"Funktionalität wird durch Dockerisierte Module bereitsgestellt."
+         },
+         {
+            "id":2,
+            "iconClass":"fas fa-check",
+            "text":"Datenvorverarbeitung und künstlichee Intelligenz läuft lokal auf Endgerät/Sensor."
+         },
+         {
+            "id":3,
+            "iconClass":"fas fa-check",
+            "text":"Lokale 'Edge Maschine' mit Datenbank."
+         },
+         {
+            "id":4,
+            "iconClass":"fas fa-check",
+            "text":"Sofern benötigt: Skalierbarkeit in die MS-Azure Cloud "
+         },
+         {
+            "id":5,
+            "iconClass":"fas fa-check",
+            "text":"Grafische Oberfläche zur Administration und Messaging."
+         }
+      ],
+      "discoverIcon":[
+         {
+            "id":1,
+            "iconClass":"fas fa-bell"
+         },
+         {
+            "id":2,
+            "iconClass":"fas fa-envelope-open"
+         },
+         {
+            "id":3,
+            "iconClass":"fas fa-video"
+         }
+      ]
+   },
+   "themeOneWorkSection":{
+      "heading":"In wenigen Schritten zur Einbindung neuer Geräte",
+      "headingText":"100% D.I.Y.",
+      "workData":[
+         {
+            "id":1,
+            "image":"/img/work_thumb_3.png",
+            "title":"Hardware",
+            "content":"Wir stellen das Beriebssystem für Standardhardware Bereit"
+         },
+         {
+            "id":2,
+            "image":"/img/work_thumb_3.png",
+            "title":"Anschluss",
+            "content":"Einhängen ins WLAN Netz und Anschluss der Sensorik ( Mikrophone, Kameras, etc. )"
+         },
+         {
+            "id":3,
+            "image":"/img/work_thumb_3.png",
+            "title":"Konfiguration",
+            "content":"Das Gerät wird über das Admin-Frontend grafisch konfiguriert. Dazu gehört die Auswahl des Software Modules mit benötiger Funktionalität(z.B. Aktionen basierend auf Sprach- oder Bilderkennung)"
+         },
+         {
+            "id":4,
+            "image":"/img/work_thumb_3.png",
+            "title":"Fertig !",
+            "content":"Sehen Sie im Frontend, sobald Ereignisse getriggert werden. "
+         }
+      ]
+   },
+   "themeOnePricingSection":{
+      "iconClass":"far fa-lightbulb text-primary mr-1",
+      "preHeading":"Flexible",
+      "preHeadingspan":"Pricing",
+      "heading":"Unlock Full Power Of sApp",
+      "headingText":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+      "headingTexttwo":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+      "text":"Not sure what to choose?",
+      "textLink":"Contact Us",
+      "usecaseDataOne":[
+         {
+            "id":1,
+            "planImage":"/img/price_basic.png",
+            "planTitle":"Basic",
+            "priceSub":"$",
+            "planPrice":"49",
+            "planBtn":"Sign Up",
+            "li_1":"5GB Linux Web Space",
+            "li_2":"5 MySQL Databases",
+            "li_3":"24/7 Tech Support",
+            "li_4":"Daily Backups"
+         }
+      ],
+      "usecaseDataTwo":[
+         {
+            "id":2,
+            "planImage":"/img/price_basic.png",
+            "planTitle":"Basic",
+            "priceSub":"$",
+            "planPrice":"49",
+            "planBtn":"Sign Up",
+            "li_1":"5GB Linux Web Space",
+            "li_2":"5 MySQL Databases",
+            "li_3":"24/7 Tech Support",
+            "li_4":"Daily Backups"
+         }
+      ]
+   },
+   "themeOneFaqSection":{
+      "heading":"Frequently asked questions",
+      "headingTwo":"Have questions? Look here",
+      "headingText":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+      "headingTexttwo":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+      "faqText":"Haven't find suitable answer?",
+      "faqTextLink":"Tell us what you need.",
+      "faqData":[
+         {
+            "id":1,
+            "title":"How to install sApp?",
+            "content":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
+         },
+         {
+            "id":2,
+            "title":"Can I get support from the Author?",
+            "content":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+         },
+         {
+            "id":3,
+            "title":"Do you have a free trail?",
+            "content":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+         }
+      ],
+      "faqDataTwo":[
+         {
+            "id":1,
+            "title":"How can I edit my personal information?",
+            "content":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+         },
+         {
+            "id":2,
+            "title":"Contact form isn't working?",
+            "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+         },
+         {
+            "id":3,
+            "title":"Contact form isn't working?",
+            "content":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
+         }
+      ],
+      "faqDataThree":[
+         {
+            "id":1,
+            "title":"How to install sApp?",
+            "content":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
+         },
+         {
+            "id":2,
+            "title":"Can I get support from the Author?",
+            "content":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+         },
+         {
+            "id":3,
+            "title":"Do you have a free trail?",
+            "content":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+         },
+         {
+            "id":4,
+            "title":"How can I edit my personal information?",
+            "content":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+         },
+         {
+            "id":5,
+            "title":"Contact form isn't working?",
+            "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+         }
+      ]
+   },
+   "themeOneImpressumSection":{
+      "heading":"Impressum",
+      "headingTwo":"Have questions? Look here",
+      "headingText":"Weil es nicht fehlen darf...",
+      "headingTexttwo":"Weil es nicht fehlen darf...",
+      "impressumText":"",
+      "impressumTextLink":"",
+      "impressumData":[
+         {
+            "id":1,
+            "title":"Anbieter dieser Internetseite ist",
+            "content":"Stephan von Cölln | Tiefenbach Straße 34  | 70329 Stuttgart     | Tel.: 0176-48890492 | E-Mail: svoncoe@svcsolutions.de | Website: www.svcsolutions.de"
+         }
+      ]
+   },
+   "themeOneTeamSection":{
+      "heading":"Unser \"Team\"  ",
+      "headingText":"Nach Promotion in der Physik tätig in der Automobilbranche und später als Data-Scientist bei Daimler Financial Services (+Mobility). Tech-Enthusiast und erfüllt sich gerade den Traum vom eigenen Produkt. Momentan noch als Einzelkämpfer unterwegs 😀  ",
+      "headingTexttwo":"Bio-Physiker, Data-Scientist, Ex-Daimler Financial Services Mitarbeiter erfüllt sich einen Traum 😀 ",
+      "teamData":[
+         {
+            "id":1,
+            "image":"/img/about.jpg",
+            "title":"Dr. rer.nat. Stephan v. Cölln",
+            "teamPost":"Founder & CEO"
+         }
+      ],
+      "teamIcons":[
+         {
+            "id":4,
+            "iconClass":"fab fa-google-plus-g"
+         }
+      ]
+   },
+   "themeOneContactSection":{
+      "heading":"Stay Tuned",
+      "headingText":"Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
+      "headingTexttwo":"Infos über Neuigkeiten, Anfragen, Ideen,..., get in touch ",
+      "content":"Kontaktieren Sie uns:",
+      "iconList":[
+         {
+            "id":1,
+            "iconClass":"fas fa-home",
+            "text":"Tiefenbachstraße 34, 70329 Stuttgart"
+         },
+         {
+            "id":2,
+            "iconClass":"fas fa-phone-alt",
+            "text":"+049 (0)17648890492"
+         },
+         {
+            "id":3,
+            "iconClass":"fas fa-envelope",
+            "text":"svoncoe@svcsolutions.de"
+         }
+      ]
+   },
+   "themeOneFooterSection":{
+      "image":"/img/logo.png",
+      "text":"",
+      "linkText_1":"Useful Links",
+      "iconList":[
+         {
+            "id":1,
+            "link":"facebook",
+            "iconClass":"fab fa-linkedin-in"
+         }
+      ],
+      "footerList_1":[
+         {
+            "id":1,
+            "text":"Home"
+         }
+      ],
+      "footerList_2":[
+         {
+            "id":1,
+            "text":""
+         }
+      ],
+      "footerList_3":[
+         {
+            "id":1,
+            "image":""
+         }
+      ]
+   },
+   "themeOneBlogSection":{
+      "blogData":[
+         {
+            "id":1,
+            "image":"/img/blog-1.jpg",
+            "author":"Anna Sword",
+            "date":"Feb 05, 2019",
+            "title":"How to grow up your business",
+            "content":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "btnText":"Read More"
+         },
+         {
+            "id":2,
+            "image":"/img/blog-2.jpg",
+            "author":"Jassica William",
+            "date":"Feb 05, 2019",
+            "title":"Planing to manage your clients?",
+            "content":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+            "btnText":"Read More"
+         },
+         {
+            "id":3,
+            "image":"/img/blog-3.jpg",
+            "author":"John Doe",
+            "date":"Mar 05, 2019",
+            "title":"Make your successful business with sApp",
+            "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.",
+            "btnText":"Read More"
+         },
+         {
+            "id":4,
+            "image":"/img/blog-4.jpg",
+            "author":"Anna Sword",
+            "date":"Aug 05, 2019",
+            "title":"How to get more clients?",
+            "content":"Need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+            "btnText":"Read More"
+         },
+         {
+            "id":5,
+            "image":"/img/blog-5.jpg",
+            "author":"Anna Sword",
+            "date":"Feb 05, 2019",
+            "title":"Grow up your business successfully",
+            "content":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+            "btnText":"Read More"
+         },
+         {
+            "id":6,
+            "image":"/img/blog-6.jpg",
+            "author":"Junaid Hasan",
+            "date":"Jan 12, 2020",
+            "title":"Meet the business magnet of the year",
+            "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly",
+            "btnText":"Read More"
+         },
+         {
+            "id":7,
+            "image":"/img/blog-7.jpg",
+            "author":"Anna Sword",
+            "date":"Feb 05, 2019",
+            "title":"How to grow up your business",
+            "content":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+            "btnText":"Read More"
+         },
+         {
+            "id":8,
+            "image":"/img/blog-8.jpg",
+            "author":"Anna Sword",
+            "date":"Sep 24, 2019",
+            "title":"Planing to manage your clients?",
+            "content":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+            "btnText":"Read More"
+         },
+         {
+            "id":9,
+            "image":"/img/blog-9.jpg",
+            "author":"Anna Sword",
+            "date":"Feb 05, 2020",
+            "title":"Make your successful business with sApp",
+            "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly.",
+            "btnText":"Read More"
+         }
+      ]
+   },
+   "themeOneSidebarData":{
+      "widgetTitle_1":"Categories",
+      "widgetTitle_2":"Popular Post",
+      "widgetTitle_3":"Popular Tags",
+      "widgetData_1":[
+         {
+            "id":1,
+            "text":"Web Design",
+            "content":"(14)"
+         },
+         {
+            "id":2,
+            "text":"App Landing",
+            "content":"(32)"
+         },
+         {
+            "id":3,
+            "text":"Wordpress",
+            "content":"(27)"
+         },
+         {
+            "id":4,
+            "text":"UI Design",
+            "content":"(18)"
+         },
+         {
+            "id":5,
+            "text":"Bootstrap",
+            "content":"(15)"
+         },
+         {
+            "id":6,
+            "text":"Web Template",
+            "content":"(29)"
+         }
+      ],
+      "widgetData_2":[
+         {
+            "id":1,
+            "image":"/img/avatar-1.png",
+            "date":"05 Feb, 2018",
+            "title":"Promote Your Apps With sApp"
+         },
+         {
+            "id":2,
+            "image":"/img/avatar-2.png",
+            "date":"12 Feb, 2020",
+            "title":"Sell Your Product Like Never Before"
+         },
+         {
+            "id":3,
+            "image":"/img/avatar-3.png",
+            "date":"13 Jul, 2019",
+            "title":"Built For Passionate People"
+         },
+         {
+            "id":4,
+            "image":"/img/avatar-4.png",
+            "date":"03 Oct, 2019",
+            "title":"Get Unlimited Offers & Plans"
+         }
+      ],
+      "widgetData_3":[
+         {
+            "id":1,
+            "text":"sApp"
+         },
+         {
+            "id":2,
+            "text":"Bootstrap"
+         },
+         {
+            "id":3,
+            "text":"IOS"
+         },
+         {
+            "id":4,
+            "text":"Android"
+         },
+         {
+            "id":5,
+            "text":"Landing Page"
+         },
+         {
+            "id":6,
+            "text":"Business"
+         },
+         {
+            "id":7,
+            "text":"Fashion"
+         },
+         {
+            "id":8,
+            "text":"Media"
+         },
+         {
+            "id":9,
+            "text":"Lifestyle"
+         },
+         {
+            "id":10,
+            "text":"Wordpress"
+         },
+         {
+            "id":11,
+            "text":"Web Design"
+         },
+         {
+            "id":12,
+            "text":"Mobile App"
+         }
+      ]
+   },
+   "themeOneBlogDetails":{
+      "title":"How to grow up your business with sApp",
+      "image":"/img/blog-2.jpg",
+      "author":"Anna Swford",
+      "date":"05 Feb, 2020",
+      "comments":"2 Comments",
+      "text_1":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
+      "text_2":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+      "text_3":"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.",
+      "text_4":"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.",
+      "quoteText_1":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.",
+      "quoteText_2":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+      "adminImage":"/img/avatar-1.png",
+      "admin":"Anna Swford",
+      "adminText":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock Virginia.",
+      "commentsTitle":"Recent Comments",
+      "commentsPost":"Post your Comments",
+      "postText":"Send Message",
+      "iconList":[
+         {
+            "id":1,
+            "link":"bg-white facebook",
+            "iconClass":"fab fa-facebook-f"
+         },
+         {
+            "id":2,
+            "link":"bg-white twitter",
+            "iconClass":"fab fa-twitter"
+         },
+         {
+            "id":3,
+            "link":"bg-white google-plus",
+            "iconClass":"fab fa-google-plus-g"
+         }
+      ],
+      "commentsData":[
+         {
+            "id":1,
+            "commentsImage":"/img/avatar-2.png",
+            "commentsAuthor":"Junaid Hasan",
+            "replyText":"Reply",
+            "commentsText_1":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+            "commentsText_2":"The standard chunk of Lorem Ipsum used since the 1500s."
+         },
+         {
+            "id":2,
+            "commentsImage":"/img/avatar-3.png",
+            "commentsAuthor":"Jassica William",
+            "replyText":"Reply",
+            "commentsText_1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+            "commentsText_2":"All the Lorem Ipsum generators on the Internet tend to repeat."
+         }
+      ]
+   }
 }
