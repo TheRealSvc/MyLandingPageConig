@@ -291,13 +291,12 @@
             "priceSub":"$",
             "planPrice":"49",
             "planBtn":"Sign Up",
-            "mainText":"Anbieten von intelligenten Zusatzleistungen zur Steigerung der Qualität in der Pflege und zur Unterstützung des Pflegepersonals. \n Audio, Video oder andere Sensorik lässt sich einfach mit individueller Logik einbinden. \n Die lokale Datenverarbeitung sorgt dafür, dass alle kritischen Daten \"im Zimmer\" bleiben, und erst dann eine Benachrichtigung an eine zentrale Stelle geht, wenn es gewünscht odet notwendig ist.\n Beispiele:  ",
-            "li_1":"Hilferruf Detektion",
-            "li_2":"Anomalie Erkennung",
-            "li_3":"Video basierte Situationserfassung",
-            "li_4":"... "
+            "mainText":"Anbieten von intelligenten Zusatzleistungen zur Steigerung der Qualität in der Pflege und zur Unterstützung des Pflegepersonals. \n Audio, Video oder andere Sensorik lässt sich einfach mit individueller Logik einbinden. \n Die lokale Datenverarbeitung sorgt dafür, dass alle kritischen Daten \"im Zimmer\" bleiben, und erst dann eine Benachrichtigung an eine zentrale Stelle geht, wenn es gewünscht oder notwendig ist.\n Beispiele:  ",
+            li_1": "",
+            "li_2":"Hilferruf Detektion",
+            "li_3":"Anomalie Erkennung",
+            "li_4":"Video basierte Situationserfassung"
          },{ 
-            
             "id":2,
             "planImage":"/img/supermarkt.jpg",
             "planTitle":"Stationärer Einzelhandel",
@@ -305,10 +304,10 @@
             "planPrice":"49",
             "planBtn":"Sign Up",
             "mainText":"Sie wollen Ihre Kundenfreundlichkeit weiter steigern? \n Dazu müssen Sie verstehen, wie Ihre Kunden mit Ihrer Ladenfläche interagieren. \n Videobasierte Module, die Ihre Kunden 100% anonym und lokal verfolgen, können Ihnen wertvolle Informationen zur Optimierung liefern: \n Beispiele:",
-            "li_1":"Zählung von Kunden",
-            "li_2":"Auswertung von Warteschlangen",
-            "li_3":"Regal-basierte Statistiken ",
-            "li_4":"..."
+            "li_1":"",
+            "li_2":"Zählung von Kunden",
+            "li_3":"Auswertung von Warteschlangen",
+            "li_4":"Regal-basierte Statistiken "
          }
       ]
    },
