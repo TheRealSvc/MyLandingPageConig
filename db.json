@@ -299,7 +299,7 @@
                 "li_4": "Daily Backups"
             }
         ],
-	  "usecaseTwo": [
+         "usecaseTwo": [
             {
                 "id": 2,
                 "planImage": "/img/price_basic.png",
@@ -313,10 +313,8 @@
                 "li_3": "24/7 Tech Support",
                 "li_4": "Daily Backups"
             }
-        ],
-	 
+        ],	 
     },
- 
     "themeOneDiscoverSection": {
         "heading": "Eine Edge-basierte Lösung ",
         "headingTwo": "Edge Computing",
