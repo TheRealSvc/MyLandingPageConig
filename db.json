@@ -274,6 +274,44 @@
             }
         ]
     },
+ 
+ "themeOneUseCaseSection": {
+        "iconClass": "far fa-lightbulb text-primary mr-1",
+        "preHeading": "Flexible",
+        "preHeadingspan": "Pricing",
+        "heading": "Unlock Full Power Of sApp",
+        "headingText": "Heading One",
+        "headingTexttwo": "Heading Two",
+        "text": "Beispile für Anwendungen?",
+        "textLink": " was soll hiert rein ?? ",
+        "pricingData": [
+            {
+                "id": 1,
+                "planImage": "/img/price_basic.png",
+                "planTitle": "Basic",
+                "priceSub": "$",
+                "planPrice": "49",
+                "planBtn": "Sign Up",
+                "li_1": "5GB Linux Web Space",
+                "li_2": "5 MySQL Databases",
+                "li_3": "24/7 Tech Support",
+                "li_4": "Daily Backups"
+            },
+            {
+                "id": 2,
+                "planImage": "/img/price_premium.png",
+                "planTitle": "Pro",
+                "priceSub": "$",
+                "planPrice": "149",
+                "planBtn": "Sign Up",
+                "li_1": "10GB Linux Web Space",
+                "li_2": "50 MySQL Databases",
+                "li_3": "Unlimited Email",
+                "li_4": "Daily Backups"
+            }
+        ]
+    },
+ 
     "themeOneDiscoverSection": {
         "heading": "Eine Edge-basierte Lösung ",
         "headingTwo": "Edge Computing",
@@ -362,7 +400,7 @@
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
         "text": "Not sure what to choose?",
         "textLink": "Contact Us",
-        "pricingData": [
+        "usecaseDataOne": [
             {
                 "id": 1,
                 "planImage": "/img/price_basic.png",
@@ -374,20 +412,22 @@
                 "li_2": "5 MySQL Databases",
                 "li_3": "24/7 Tech Support",
                 "li_4": "Daily Backups"
-            },
+            }
+        ],
+	   "usecaseDataTwo": [
             {
                 "id": 2,
-                "planImage": "/img/price_premium.png",
-                "planTitle": "Pro",
+                "planImage": "/img/price_basic.png",
+                "planTitle": "Basic",
                 "priceSub": "$",
-                "planPrice": "149",
+                "planPrice": "49",
                 "planBtn": "Sign Up",
-                "li_1": "10GB Linux Web Space",
-                "li_2": "50 MySQL Databases",
-                "li_3": "Unlimited Email",
+                "li_1": "5GB Linux Web Space",
+                "li_2": "5 MySQL Databases",
+                "li_3": "24/7 Tech Support",
                 "li_4": "Daily Backups"
             }
-        ]
+        ]  
     },
     "themeOneFaqSection": {
         "heading": "Frequently asked questions",
