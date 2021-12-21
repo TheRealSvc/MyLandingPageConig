@@ -281,9 +281,9 @@
       "heading":"Unlock Full Power Of sApp",
       "headingText":"Heading One",
       "headingTexttwo":"Heading Two",
-      "text":"Beispile für Anwendungen?",
+      "text":"Beispiele für Anwendungen?",
       "textLink":" was soll hiert rein ?? ",
-      "usecaseOne":[
+      "usecasedata":[
          {
             "id":1,
             "planImage":"/img/price_basic.png",
@@ -296,10 +296,7 @@
             "li_2":"5 MySQL Databases",
             "li_3":"24/7 Tech Support",
             "li_4":"Daily Backups"
-         }
-      ],
-      "usecaseTwo":[
-         {
+         },{
             "id":2,
             "planImage":"/img/price_basic.png",
             "planTitle":"Stationärer Einzelhandel",
