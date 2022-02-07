@@ -303,7 +303,7 @@
             "priceSub":"$",
             "planPrice":"49",
             "planBtn":"Sign Up",
-            "mainText":"Sie wollen Ihre Kundenfreundlichkeit weiter steigern? \n Dazu müssen Sie verstehen, wie Ihre Kunden mit Ihrer Ladenfläche interagieren. \n Videobasierte Module, die Ihre Kunden 100% anonym und lokal verfolgen, können Ihnen wertvolle Informationen zur Optimierung liefern: \n Beispiele:",
+            "mainText":"Sie wollen Ihre Kundenfreundlichkeit weiter steigern? \n Dazu müssen Sie verstehen, wie Ihre Kunden mit Ihrer Ladenfläche interagieren. \n Videobasierte Module, die Ihre Kunden 100% anonym und lokal verfolgen, können Ihnen wertvolle Informationen zur Optimierung liefern. \n Beispiele:",
             "li_1":"",
             "li_2":"Zählung von Kunden",
             "li_3":"Auswertung von Warteschlangen",
@@ -315,12 +315,11 @@
             "priceSub":"$",
             "planPrice":"49",
             "planBtn":"Sign Up",
-            "mainText":"Sie haben eine Anwendung im Sinn, für den Sie noch keine Lösung haben? \n Kommen Sie auf uns zu! \n  Datenschutz, vernetzte IoT Geräte und KI sind kein Widerspruch. \n Ihre Vorteile: ",
+            "mainText":"Sie haben eine Anwendung im Sinn, für den Sie noch keine Lösung haben? \n Kommen Sie auf uns zu! \n  Datenschutz, vernetzte IoT Geräte und KI sind kein Widerspruch. \n Ihre Vorteile:",
             "li_1":"",
             "li_2":"DSGVO konform",
             "li_3":"Lokale Datenvorverarbeitung",
-            "li_4":"Edge-Centered aber Cloud enabled",
-            "li_5":"Seien Sie Early-Adoptor, gestalten Sie durch Ihre spezifischen Anforderungen!"     
+            "li_4":"Seien Sie Early-Adoptor, gestalten Sie durch Ihre spezifischen Anforderungen!"
          }
       ]
    },
