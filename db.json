@@ -156,19 +156,19 @@
               "id": 2,
               "image": "/img/featured_image_2.png",
               "title": "DSGVO konform",
-              "text": "Sie bestimmen welche Information wann wohin gesendet wird."
+              "text": "Perfekt geeignet für zentralisierte Anwendungen mit lokalem Personenbezug"
             },  
             {
               "id": 3,
               "image": "/img/featured_image_3.png",
               "title": "Sicherheit an erster Stelle",
-              "text": "Minimale und Verschlüsselte Kommunikation nach neuesten Standards."
+              "text": "Maximal-lokale Datenverarbeitung"
             },
             {
                 "id": 4,
                 "image": "/img/featured_image_3.png",
                 "title": "Geringe Bandbreitenanforderung ",
-                "text": "Der Hauptteil der Datenverarbeitung findet lokal statt. Das senkt die zu übertragene Datenmenge und schafft gleichzeitig Sicherheit"
+                "text": "Durch die lokale Datenverarbeitung wird die im Firmennetz übertragene Datenmenge minimiert"
               },
               {
                 "id": 6,
@@ -275,7 +275,7 @@
         ]
     },
     "themeOneDiscoverSection": {
-        "heading": "Eine Edge-basierte Lösung ",
+        "heading": "Eine Edge-basierte Lösung für Anwendungen mit Personenbezug ",
         "headingTwo": "Edge Computing",
         "headingThree": "für Sie ",
         "headingText": "Ihre Vorzüge",
@@ -290,7 +290,7 @@
             {
                 "id": 2,
                 "iconClass": "fas fa-check",
-                "text": "Datenvorverarbeitung und künstlichee Intelligenz läuft lokal auf Endgerät/Sensor."
+                "text": "Datenvorverarbeitung und künstliche Intelligenz läuft lokal auf Endgerät/Sensor."
             },
             {
                 "id": 3,
@@ -300,7 +300,7 @@
             {
                 "id": 4,
                 "iconClass": "fas fa-check",
-                "text": "Sofern benötigt: Skalierbarkeit in die MS-Azure Cloud "
+                "text": "Skalierbarkeit durch MS-Azure Cloud "
             },
             {
                 "id": 5,
@@ -349,7 +349,7 @@
                 "id": 4,
                 "image": "/img/work_thumb_3.png",
                 "title": "Fertig !",
-                "content": "Sehen Sie im Frontend, sobald Ereignisse getriggert werden. "
+                "content": "Sehen Sie Ereignisse im Frontend oder verbinden Sie Ihr eigene Datenbank "
             }
         ]
     },
@@ -469,14 +469,14 @@
             {
                 "id": 1,
                 "title": "Anbieter dieser Internetseite ist",
-                "content": "SVCSOLUTIONS GmbH | Tiefenbach Straße 34  | 70329 Stuttgart    | Tel.: 0176-48890492 | E-Mail: svoncoe@svcsolutions.de | Geschäftsführer: Dr. Stephan v. Cölln    | Website: www.svcsolutions.de    | Registergericht: Amtsgericht Stuttgart | Registernummer: HRB  785483"
+                "content": "SVCSOLUTIONS GmbH | Tiefenbach Straße 34  | 70329 Stuttgart    | Tel.: 0176-48890492 | E-Mail: svoncoe (*at*) svcsolutions.de | Geschäftsführer: Dr. Stephan v. Cölln    | Website: www.svcsolutions.de    | Registergericht: Amtsgericht Stuttgart | Registernummer: HRB  785483"
             }
         ]
     },
     "themeOneTeamSection": {
         "heading": "Unser \"Team\"  ",
-        "headingText": "Nach Promotion in der Physik tätig in der Automobilbranche und später als Data-Scientist bei Daimler Financial Services (+Mobility). Tech-Enthusiast und erfüllt sich gerade den Traum vom eigenen Produkt. Momentan noch als Einzelkämpfer unterwegs 😀  ",
-        "headingTexttwo": "Bio-Physiker, Data-Scientist, IoT, Ex-Daimler Financial Services Mitarbeiter erfüllt sich einen Traum 😀 ",
+        "headingText": "Nach Promotion (Physik) tätig in der Automobilbranche und später als Data-Scientist bei Daimler Mobility. Jetzt bei Enpal GmbH begeistert im Einsatz für nachhaltige Energieerzeugung. Tech-Enthusiast 😀  ",
+        "headingTexttwo": "Bio-Physiker, Data-Scientist, IoT ",
         "teamData": [
             {
                 "id": 1,
@@ -510,7 +510,7 @@
             {
                 "id": 3,
                 "iconClass": "fas fa-envelope",
-                "text": "svoncoe@svcsolutions.de"
+                "text": "svoncoe (*at*) svcsolutions.de"
             }
         ]
     },
